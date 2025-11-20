@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hey there, I'm Troy 👋
 
-<!--
-**troytheboy/troytheboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer passionate about building practical applications and exploring different tech stacks. I enjoy working across the full spectrum of development—from web applications to Discord bots to cloud-based systems.
 
-Here are some ideas to get you started:
+## 🛠️ What I've Been Building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏒 [PuckScores](https://github.com/troytheboy/puckscores)
+A real-time NHL scoreboard and standings web app built with React. Pulls live game data and standings directly from the NHL API to keep hockey fans in the loop.
+
+**Tech:** React, RESTful APIs, NHL API
+
+### 🤖 [Magnus](https://github.com/troytheboy/magnus)
+A general-purpose Discord bot built with Node.js and discord.js. Designed to enhance server functionality and user experience.
+
+**Tech:** Node.js, JavaScript, discord.js
+
+### 🕷️ [Crawler](https://github.com/troytheboy/crawler)
+A web crawler that scrapes CNN for links and stores them in the cloud for searchability. Built with modern Microsoft technologies.
+
+**Tech:** C#, ASP.NET, Microsoft Azure
+
+### 🌐 [Personal Website](https://github.com/troytheboy/troybarnard)
+My portfolio website showcasing my work and projects. Clean, responsive design built from scratch.
+
+**Tech:** HTML, CSS, JavaScript
+
+## 💻 Tech Stack
+
+**Languages:** JavaScript, C#, Java, HTML/CSS  
+**Frameworks & Libraries:** React, Node.js, ASP.NET, discord.js  
+**Tools & Platforms:** Microsoft Azure, Visual Studio, Git
+
+## 📫 Let's Connect
+
+Feel free to check out my repositories and reach out if you want to collaborate or chat about tech!
+
+---
+
+*Always learning, always building.*
