@@ -4,6 +4,10 @@ I'm a software developer passionate about building practical applications and ex
 
 ## 🛠️ What I've Been Building
 
+
+### 🐶 [Z-Trainer](https://github.com/troytheboy/puckscores)
+A dog-training mobile app built with React Native. Specialized for spearation anxiety training.
+
 ### 🏒 [PuckScores](https://github.com/troytheboy/puckscores)
 A real-time NHL scoreboard and standings web app built with React. Pulls live game data and standings directly from the NHL API to keep hockey fans in the loop.
 
