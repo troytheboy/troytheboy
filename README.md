@@ -5,7 +5,7 @@ I'm a software developer passionate about building practical applications and ex
 ## 🛠️ What I've Been Building
 
 
-### 🐶 [Z-Trainer](https://github.com/troytheboy/puckscores)
+### 🐶 [Z-Trainer](https://github.com/troytheboy/z-trainer)
 A dog-training mobile app built with React Native. Specialized for spearation anxiety training.
 
 ### 🏒 [PuckScores](https://github.com/troytheboy/puckscores)
